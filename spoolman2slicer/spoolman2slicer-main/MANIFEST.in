@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 Sebastian Andersson <sebastian@bittr.nu>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+include LICENSE
+include README.md
+include REUSE.toml
+
+recursive-include LICENSES *
+recursive-include spoolman2slicer/data *
